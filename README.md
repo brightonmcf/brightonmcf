@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brightonmcf
-- 👀 I’m interested in gaming, music/guitar, art/drawing, creating, helping.
+- 👀 I’m interested in gaming, music/guitar, photography, art/drawing, creating, helping.
 - 🌱 I’m currently learning development with C#.
 - 💞️ I’m looking to collaborate on anything that will better my understanding and be impactful.
 - 📫 brighton.mcfarlane@outlook.com
